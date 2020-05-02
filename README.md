@@ -14,3 +14,8 @@ This is why I thought that they would make a great meditative app-game - extreme
 Since there are no brush strokes involved... no movement to consider... why would the game be playable ?
 
 You can view it in any browser at https://eviau.github.io/meditativegames/
+
+### information about the piece
+The code was written late at night, before the Boston Hackathon for Terrible Ideas.
+It was then submitted to [Le Dépotoir](https://le-depotoir.itch.io/) 30 min jam, during which I wrote the first draft of this essay.
+
